@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.portfolio.mgb.MgbApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.439 s <<< FAILURE! - in com.portfolio.mgb.MgbApplicationTests
+com.portfolio.mgb.MgbApplicationTests  Time elapsed: 0.437 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
